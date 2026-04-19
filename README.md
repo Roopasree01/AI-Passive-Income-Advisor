@@ -3,6 +3,11 @@
 Domain-specific **Generative AI chatbot** that provides personalized passive income & investment recommendations.
 
 ---
+Team Members :-
+1. Somnath Bhaskar  -  12401921
+2. Challa Roopasree -  12405697
+3. Arko Ghosh       -  12405857
+---
 
 ## 🚀 Features
 - Personalized investment suggestions  
