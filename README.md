@@ -56,7 +56,7 @@ Output: ⚠️ I only answer finance-related questions.
 
 ## ▶️ Run Locally
 bash
-git clone https://github.com/YOUR_USERNAME/AI-Passive-Income-Advisor.git
+git clone https://github.com/Somnath29/AI-Passive-Income-Advisor.git
 cd AI-Passive-Income-Advisor
 pip install -r requirements.txt
 streamlit run app.py
